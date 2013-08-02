@@ -9,8 +9,8 @@ Group:            Sciences/Mathematics
 License:          GPLv2
 URL:              http://cran.r-project.org/web/packages/cem/index.html
 Source0:          http://cran.r-project.org/src/contrib/cem_1.1.5.tar.gz
-BuildRequires:    R-devel R-randomForest R-combinat R-tcltk R-nlme R-lattice R-Amelia
-Requires:         R-core R-randomForest R-combinat R-tcltk R-nlme R-lattice R-Amelia
+BuildRequires:    R-devel R-randomForest R-combinat R-tcltk R-nlme R-lattice
+Requires:         R-core R-randomForest R-combinat R-tcltk R-nlme R-lattice
 BuildArch:        noarch
 
 %description
